@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+              "target": "es6",
+              "module": "commonjs",
+//            "outDir": "./dist",
+              "lib": ["ES2024", "DOM"],
+              "strict": true
+        },
+    "include": ["C:/Users/anont404pc/Desktop/ChatGPTbot" ], //вкл в проц. комп.
+    "exclude": ["./node_modules" ] //исключить из проц. компиляцит
+}
