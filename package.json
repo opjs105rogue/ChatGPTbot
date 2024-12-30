@@ -11,6 +11,8 @@
   "description": "",
   "dependencies": {
     "env": "^0.0.2",
+    "http-proxy-agent": "^7.0.2",
+    "https-proxy-agent": "^7.0.6",
     "openai": "^4.77.0",
     "telegraf": "^4.16.3",
     "typescript": "^5.7.2"
